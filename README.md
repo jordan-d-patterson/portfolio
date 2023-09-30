@@ -1,9 +1,9 @@
 # Librarian 
 
 ## Education
-- M.I., Library and Information Science | University of Toronto (_2012-2014_)
+- M.I., Library and Information Science, University of Toronto (_2012-2014_)
   - _Collaborative Program in Book History and Print Culture_
-- B.A., English | University of Western Ontario (2008-2012)
+- B.A., English, University of Western Ontario (2008-2012)
   - _Honours Specialization in English Language and Literature_
   - _Minor in Comparative Literature and Culture_
 
