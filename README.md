@@ -24,7 +24,7 @@
 [Catholic-Indigenous Encounter: A Bibliography of Materials at the A.P. Mahoney Library](https://kings.uwo.libguides.com/c.php?g=726153)
 - I started this project in June 2021, shortly after the news came out about the unmarked graves at the [Kamloops Indian Residential School.](https://en.wikipedia.org/wiki/Kamloops_Indian_Residential_School) Working in a library at a Catholic institution, I felt it was proper to prepare a resource to help researchers explore the historical relationship between the Indigenous peoples of Canada and the Catholic Church. While focusing on the Canadian context, the bibliography eventually developed to address the colonial aspects of the Catholic Church more broadly construed.
 
-[The Vintage Contemporaries Bibliography](https://vintagecontemporariesbib.com/)
+[The Vintage Contemporaries Bibliography](https://vintagecontemporariesbib.com/)  
 [The Vintage Contemporaries Bibliography on Instagram](https://www.instagram.com/vintagecontemporariesbib/)
 - This personal project, built around my own book collection, is a descriptive bibliography of works published under the Vintage Contemporaries imprint of Random House from 1984 to 1999. 
 
@@ -46,14 +46,14 @@ Wikidata
 ## Publications
 ### Evidence Summaries
 Between 2019 and 2023, I wrote 8 evidence summaries for the journal Evidence Based Library and Information Practice:
-- Patterson, Jordan. “Insufficient Understanding of User Benefits Impedes Open Data Initiatives at Museums”. Evidence Based Library and Information Practice, vol. 18, no. 3, Sept. 2023, pp. 69-71, doi:10.18438/eblip30372.
-- Patterson, Jordan. “An Online Community of Data Enthusiasts Collaborates to Seek, Share, and Make Sense of Data”. Evidence Based Library and Information Practice, vol. 18, no. 1, Mar. 2023, pp. 121-3, doi:10.18438/eblip30280.
-- Patterson, Jordan. “Print Book Circulation Longevity Dropping at a Small Canadian University Library”. Evidence Based Library and Information Practice, vol. 17, no. 3, Sept. 2022, pp. 144-6, doi:10.18438/eblip30181.
-- Patterson, Jordan. “User-Focused Values of Empathy, Empowerment, and Communication Are Unheralded in Previous Conceptualizations of Reference and Information Services”. Evidence Based Library and Information Practice, vol. 17, no. 1, Mar. 2022, pp. 137-9, doi:10.18438/eblip30081.
-- Patterson, Jordan. “Sustainable Digital Preservation Initiatives Benefit from Multi-Pronged Approach”. Evidence Based Library and Information Practice, vol. 16, no. 1, Mar. 2021, pp. 107-8, doi:10.18438/eblip29887.
-- Patterson, Jordan. “Cataloguing Remains an Important Skill at Public Libraries in the Modern Metadata Landscape of Norway”. Evidence Based Library and Information Practice, vol. 15, no. 3, Sept. 2020, pp. 187-8, doi:10.18438/eblip29788.
-- Patterson, Jordan. “User Education and File Standards Best Options to Ensure Open Educational Resources Are Truly Open”. Evidence Based Library and Information Practice, vol. 15, no. 1, Mar. 2020, pp. 236-7, doi:10.18438/eblip29685.
-- Patterson, Jordan. “Dewey Decimal Classification Trending Downward in U.S. Academic Libraries, But Unlikely to Disappear Completely”. Evidence Based Library and Information Practice, vol. 14, no. 3, Sept. 2019, pp. 156-8, doi:10.18438/eblip29592.
+- Patterson, Jordan. “Insufficient Understanding of User Benefits Impedes Open Data Initiatives at Museums”. Evidence Based Library and Information Practice, vol. 18, no. 3, Sept. 2023, pp. 69-71, [doi:10.18438/eblip30372.](https://doi.org/10.18438/eblip30372)
+- Patterson, Jordan. “An Online Community of Data Enthusiasts Collaborates to Seek, Share, and Make Sense of Data”. Evidence Based Library and Information Practice, vol. 18, no. 1, Mar. 2023, pp. 121-3, [doi:10.18438/eblip30280.](https://doi.org/10.18438/eblip30280)
+- Patterson, Jordan. “Print Book Circulation Longevity Dropping at a Small Canadian University Library”. Evidence Based Library and Information Practice, vol. 17, no. 3, Sept. 2022, pp. 144-6, [doi:10.18438/eblip30181.](https://doi.org/10.18438/eblip30181)
+- Patterson, Jordan. “User-Focused Values of Empathy, Empowerment, and Communication Are Unheralded in Previous Conceptualizations of Reference and Information Services”. Evidence Based Library and Information Practice, vol. 17, no. 1, Mar. 2022, pp. 137-9, [doi:10.18438/eblip30081.](https://doi.org/10.18438/eblip30081)
+- Patterson, Jordan. “Sustainable Digital Preservation Initiatives Benefit from Multi-Pronged Approach”. Evidence Based Library and Information Practice, vol. 16, no. 1, Mar. 2021, pp. 107-8, [doi:10.18438/eblip29887.](https://doi.org/10.18438/eblip29887)
+- Patterson, Jordan. “Cataloguing Remains an Important Skill at Public Libraries in the Modern Metadata Landscape of Norway”. Evidence Based Library and Information Practice, vol. 15, no. 3, Sept. 2020, pp. 187-8, [doi:10.18438/eblip29788.](https://doi.org/10.18438/eblip29788)
+- Patterson, Jordan. “User Education and File Standards Best Options to Ensure Open Educational Resources Are Truly Open”. Evidence Based Library and Information Practice, vol. 15, no. 1, Mar. 2020, pp. 236-7, [doi:10.18438/eblip29685.](https://doi.org/10.18438/eblip29685)
+- Patterson, Jordan. “Dewey Decimal Classification Trending Downward in U.S. Academic Libraries, But Unlikely to Disappear Completely”. Evidence Based Library and Information Practice, vol. 14, no. 3, Sept. 2019, pp. 156-8, [doi:10.18438/eblip29592.](https://doi.org/10.18438/eblip29592)
 
 ### Off the Shelf
 While at Osgoode, I contributed 18 posts about the library's special collections to the library's Off the Shelf blog:
