@@ -9,7 +9,7 @@ _Minor in Comparative Literature and Culture_
 
 ## Work Experience
 **Associate Librarian, St. Peter's Seminary (_March 2021 - Present_)**
-- Flying solo in my small library, I do everything there is to do, from fulfilment and reference to cataloguing and acquisitions, and everything in between. 
+- Flying solo in my small library, I do everything there is to do, from fulfilment and reference to cataloguing and acquisitions, and everything in between.
 **Cataloguing and Metadata Librarian, Memorial University of Newfoundland (_March 2018 - March 2021_)**
 - As a part of the C&M team in a large research library, I provided a range of services. Areas in which I particularly enjoyed working include subject analysis and classification, web archiving, institutional repositories, linked data, and research data management.
 **Cataloguing Assistant (Law), Osgoode Hall Law Library, York University (_September 2014 - February 2018_)**
