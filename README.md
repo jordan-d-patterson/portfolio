@@ -38,10 +38,10 @@ Wikidata
 
 ## Profiles
 
-[Goodreads](https://www.goodreads.com/user/show/85641914-jordan-patterson)
-[ORCiD](https://orcid.org/0000-0002-0376-030X)
-[ResearchGate](https://www.researchgate.net/profile/Jordan-Patterson-7)
-[Wikidata: LesserJerome](https://www.wikidata.org/wiki/User:LesserJerome)
+[Goodreads](https://www.goodreads.com/user/show/85641914-jordan-patterson)  
+[ORCiD](https://orcid.org/0000-0002-0376-030X)  
+[ResearchGate](https://www.researchgate.net/profile/Jordan-Patterson-7)  
+[Wikidata: LesserJerome](https://www.wikidata.org/wiki/User:LesserJerome)  
 
 ## Publications
 ### Evidence Summaries
