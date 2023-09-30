@@ -15,7 +15,7 @@
 - As a part of the C&M team in a large research library, I provided a range of services. Areas in which I particularly enjoyed working include subject analysis and classification, web archiving, institutional repositories, linked data, and research data management.  
 
 **Cataloguing Assistant (Law), Osgoode Hall Law Library, York University (_September 2014 - February 2018_)**
-- I was the library's cataloguer, responsible for the description of all its bibliographic materials. In this position I also designed a large-scale project to reorganize the library's special collections.  
+- I was the library's cataloguer, responsible for the description of all its bibliographic materials. In this position I also designed a project to assign new call numbers to our rare materials in support of a  reorganization project in the library's special collections.
 
 **Rare Books Student Assistant, Osgoode Hall Law Library, York University (_September 2013 - September 2014_)**
 - While still a Master's student, I worked for a year providing enhanced cataloguing the library's rare books.
@@ -25,8 +25,7 @@
 - I started this project in June 2021, shortly after the news came out about the unmarked graves at the [Kamloops Indian Residential School.](https://en.wikipedia.org/wiki/Kamloops_Indian_Residential_School) Working in a library at a Catholic institution, I felt it was proper to prepare a resource to help researchers explore the historical relationship between the Indigenous peoples of Canada and the Catholic Church. While focusing on the Canadian context, the bibliography eventually developed to address the colonial aspects of the Catholic Church more broadly construed.
 
 [The Vintage Contemporaries Bibliography](https://vintagecontemporariesbib.com/)  
-[The Vintage Contemporaries Bibliography on Instagram](https://www.instagram.com/vintagecontemporariesbib/)
-- This personal project, built around my own book collection, is a descriptive bibliography of works published under the Vintage Contemporaries imprint of Random House from 1984 to 1999. 
+- This personal project, built around my own book collection, is a descriptive bibliography of works published under the Vintage Contemporaries imprint of Random House from 1984 to 1999. It's also on Instagram: [@vintagecontemporariesbib](https://www.instagram.com/vintagecontemporariesbib/)
 
 Wikidata
  - While I was at MUN, I spent time experimenting with small projects on Wikidata to teach myself about linked data. I logged most of this activity on my Wikidata profile, linked below.
@@ -77,7 +76,7 @@ While at Osgoode, I contributed 18 posts about the library's special collections
 - Library of Parliament/Bibliothèque du Parliament Special Collection at Osgoode [(January 28, 2014)](https://www.yorku.ca/osgoode/libblog/2014/01/28/library-of-parliamentbibliotheque-du-parliament-special-collection-at-osgoode/)
 
 ### Other
-As an undergrad, I had paper selected by a jury of professors to be included in the faculty's undergraduate journal
+As an undergrad, I had paper selected by a jury of professors to be included in the faculty's undergraduate journal:
 - Patterson, Jordan. “'What Does This Mean?' : A Fourfold Interpretation of the Double Rainbow Simile in Paradiso XII". The Semi-Colon: Arts and Humanities Student Council Literary Journal, vol. 5, Spring 2011)
 
 ## Presentations
