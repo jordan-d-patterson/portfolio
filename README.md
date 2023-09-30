@@ -1,4 +1,4 @@
-# Librarian
+# Librarian 
 
 ## Education
 - M.I., Library and Information Science | University of Toronto (_2012-2014_)
