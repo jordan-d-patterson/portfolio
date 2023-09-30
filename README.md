@@ -54,7 +54,6 @@ Between 2019 and 2023, I wrote 8 evidence summaries for the journal Evidence Bas
 - Patterson, Jordan. “Cataloguing Remains an Important Skill at Public Libraries in the Modern Metadata Landscape of Norway”. Evidence Based Library and Information Practice, vol. 15, no. 3, Sept. 2020, pp. 187-8, doi:10.18438/eblip29788.
 - Patterson, Jordan. “User Education and File Standards Best Options to Ensure Open Educational Resources Are Truly Open”. Evidence Based Library and Information Practice, vol. 15, no. 1, Mar. 2020, pp. 236-7, doi:10.18438/eblip29685.
 - Patterson, Jordan. “Dewey Decimal Classification Trending Downward in U.S. Academic Libraries, But Unlikely to Disappear Completely”. Evidence Based Library and Information Practice, vol. 14, no. 3, Sept. 2019, pp. 156-8, doi:10.18438/eblip29592.
-- Patterson, Jordan. “'What Does This Mean?' : A Fourfold Interpretation of the Double Rainbow Simile in Paradiso XII". The Semi-Colon: Arts and Humanities Student Council Literary Journal, vol. 5, Spring 2011)
 
 ### Off the Shelf
 While at Osgoode, I contributed 18 posts about the library's special collections to the library's Off the Shelf blog:
@@ -76,6 +75,10 @@ While at Osgoode, I contributed 18 posts about the library's special collections
 - Well my day just became much more interesting… [(April 8, 2014)](https://www.yorku.ca/osgoode/libblog/2014/04/08/well-my-day-just-became-much-more-interesting/)
 - The Law It Self: Sir Edward Coke and his Lasting Authority [(March 19, 2014)](https://www.yorku.ca/osgoode/libblog/2014/03/19/the-law-it-self-sir-edward-coke-and-his-lasting-authority/)
 - Library of Parliament/Bibliothèque du Parliament Special Collection at Osgoode [(January 28, 2014)](https://www.yorku.ca/osgoode/libblog/2014/01/28/library-of-parliamentbibliotheque-du-parliament-special-collection-at-osgoode/)
+
+### Other
+As an undergrad, I had paper selected by a jury of professors to be included in the faculty's undergraduate journal
+- Patterson, Jordan. “'What Does This Mean?' : A Fourfold Interpretation of the Double Rainbow Simile in Paradiso XII". The Semi-Colon: Arts and Humanities Student Council Literary Journal, vol. 5, Spring 2011)
 
 ## Presentations
 - Wikidata: What It Is, Why It Matters (May 2019, NLLA Conference)
