@@ -1,4 +1,5 @@
 # Librarian 
+<!-- > And when night comes, and you look back over today and see how fragmentary everything has been, and how much you planned that has gone undone, and all the reasons you have to be embarassed and ashamed: just take everything exactly as it is, put it in God's hands and leave it with Him. - Edith Stein, Saint Teresa Benedicta of the Cross [provide citation, and fuller quotation]-->
 
 ## Education
 - M.I., Library Science | University of Toronto (_2012-2014_)
