@@ -77,7 +77,7 @@ While at Osgoode, I contributed 18 posts about the library's special collections
 - Library of Parliament/Bibliothèque du Parliament Special Collection at Osgoode [(January 28, 2014)](https://www.yorku.ca/osgoode/libblog/2014/01/28/library-of-parliamentbibliotheque-du-parliament-special-collection-at-osgoode/)
 
 ### Other
-As an undergrad, I had paper selected by a jury of professors to be included in the faculty's undergraduate journal:
+As an undergrad, I had a paper selected by a jury of professors to be included in the faculty's undergraduate journal:
 - Patterson, Jordan. “'What Does This Mean?' : A Fourfold Interpretation of the Double Rainbow Simile in Paradiso XII". The Semi-Colon: Arts and Humanities Student Council Literary Journal, vol. 5, Spring 2011)
 
 ## Presentations
