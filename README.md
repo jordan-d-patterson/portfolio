@@ -94,16 +94,16 @@ As an undergrad, I had a paper selected by a jury of professors to be included i
 
 ## Reading
 Since I was an wide-eyed English major in second year in 2010, I've tried to keep an accurate log of my reading. I used an Excel spreadsheet to catalogue my books and track my reading for over a decade before I decided a) to give up cataloguing my books and b) to start tracking my reading on Goodreads in 2022.  
-[2010](https://github.com/jordan-d-patterson/portfolio/Reading2010.md)  
-[2011](https://github.com/jordan-d-patterson/portfolio/Reading2011.md)  
-[2012](https://github.com/jordan-d-patterson/portfolio/Reading2012.md)  
-[2013](https://github.com/jordan-d-patterson/portfolio/Reading2013.md)  
-[2014](https://github.com/jordan-d-patterson/portfolio/Reading2014.md)  
-[2015](https://github.com/jordan-d-patterson/portfolio/Reading2015.md)  
-[2016](https://github.com/jordan-d-patterson/portfolio/Reading2016.md)  
-[2017](https://github.com/jordan-d-patterson/portfolio/Reading2017.md)  
-[2018](https://github.com/jordan-d-patterson/portfolio/Reading2018.md)  
-[2019](https://github.com/jordan-d-patterson/portfolio/Reading2019.md)  
-[2020](https://github.com/jordan-d-patterson/portfolio/Reading2020.md)  
-[2021](https://github.com/jordan-d-patterson/portfolio/Reading2021.md)  
+[2010](Reading2010.md)  
+[2011](Reading2011.md)  
+[2012](Reading2012.md)  
+[2013](Reading2013.md)  
+[2014](Reading2014.md)  
+[2015](Reading2015.md)  
+[2016](Reading2016.md)  
+[2017](Reading2017.md)  
+[2018](Reading2018.md)  
+[2019](Reading2019.md)  
+[2020](Reading2020.md)  
+[2021](Reading2021.md)  
 2022
