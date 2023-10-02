@@ -1,4 +1,7 @@
 #2021
+
+⭐️s mark exceptional and formative reads
+
 | Title | Author | Date Finished |
 | --- | --- | --- |
 | Three Men in a Boat | Jerome, Jerome K. | 2021-01-06 |
@@ -12,7 +15,7 @@
 | Stop Over-Thinking Your Money! | Banerjee, Preet | 2021-02-10 |
 | Saint Oscar Romero: Priest, Prophet, Martyr | Walters, Kerry | 2021-02-18 |
 | The Complete Persepolis | Satrapi, Marjane | 2021-02-21 |
-| Purgatorio | Dante | 2021-02-21 |
+| ⭐️ Purgatorio | Dante | 2021-02-21 |
 | Train Dreams | Johnson, Denis | 2021-02-22 |
 | Building a Bridge: How the Catholic Church and the LGBT Community… | Martin, James | 2021-03-25 |
 | Instructions on Certain Aspects of the Theology of Liberation | Ratzinger, Joseph | 2021-04-11 |
@@ -25,19 +28,19 @@
 | Meaning of Teilhard de Chardin, The | Valle Knight, Alice | 2021-05-14 |
 | Rabbit, Run | Updike, John | 2021-05-21 |
 | Hunters, The | Salter, James | 2021-06-02 |
-| Beginning to Read the Fathers | Ramsey, Boniface | 2021-06-03 |
+| ⭐️ Beginning to Read the Fathers | Ramsey, Boniface | 2021-06-03 |
 | Basic Black with Pearls | Weinzweig, Helen | 2021-06-15 |
 | What is Lonergan Up to in Insight? | Tekippe, Terry | 2021-07-06 |
 | Cassada | Salter, James | 2021-07-06 |
 | Zero to One | Thiel, Peter | 2021-07-08 |
 | What is the Index? | Burke, Redmond | 2021-07-09 |
 | Jesus' Son | Johnson, Denis | 2021-07-14 |
-| Short Account of the Destruction of the Indies | Las Casas, Bartolome de | 2021-07-18 |
+| ⭐️ Short Account of the Destruction of the Indies | Las Casas, Bartolome de | 2021-07-18 |
 | Millionaire Next Door, The | Stanley and Danko | 2021-07-20 |
 | Purple Cow | Godin, Seth | 2021-07-24 |
 | Gospel According to John, The | Lewis, Scott M. | 2021-08-05 |
 | Such is My Beloved | Callaghan, Morley | 2021-08-06 |
-| Bible | Various | 2021-08-24 |
+| ⭐️ The Bible | Various | 2021-08-24 |
 | Sir Gawain and the Green Knight | Anonymous | 2021-08-29 |
 | Undiscovered Self, The | Jung, Carl | 2021-09-08 |
 | Winter in Sokcho | Dusapin, Elisa Shua | 2021-09-09 |
@@ -62,7 +65,7 @@
 | Moon-Girl and Devil Dinosaur: Cosmic Cooties (#7-12) | Reeder and Montclare | 2021-11-07 |
 | New Deal, The | Case, Jonathan | 2021-11-08 |
 | Beverly | Drnaso, Nick | 2021-11-08 |
-| Arab of the Future 4, The | Sattouf, Riad | 2021-12-03 |
+| ⭐️ Arab of the Future 4, The | Sattouf, Riad | 2021-12-03 |
 | Patsy Walker, A.K.A. Hellcat!, Volume 2: Don't Stop Me-Ow | Leth, Kate | 2021-12-05 |
 | American Psycho | Ellis, Bret Easton | 2021-12-11 |
 | Once & Future, Vol. 1: The King is Undead | Gillen, Kieron | 2021-12-14 |
