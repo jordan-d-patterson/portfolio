@@ -93,7 +93,7 @@ As an undergrad, I had a paper selected by a jury of professors to be included i
 - The Justice of the Peace in England and North America from 1506 to 1893: A Bibliographic History (Osgoode Hall Law School, Autumn 2017)
 
 ## Reading
-Since I was an wide-eyed English major in second year in 2010, I've tried to keep an accurate log of my reading. I used an Excel spreadsheet to catalogue my books and track my reading for over a decade before I decided a) to give up cataloguing my books and b) to start tracking my reading on Goodreads in 2022.  
+Since I was an wide-eyed English major in second year in 2010, I've tried to keep an accurate log of my reading. I read fewer novels than I used to. I used an Excel spreadsheet to catalogue my books and track my reading for over a decade before I decided a) to give up cataloguing my books and b) to start tracking my reading on Goodreads in 2022. I mark exceptional and formative reading experiences with a ⭐️; I define these as books without which I think I'd be a different person thinking different thoughts today.
 [2010](Reading2010.md)  
 [2011](Reading2011.md)  
 [2012](Reading2012.md)  
