@@ -1,4 +1,7 @@
 #2011
+
+⭐️s mark exceptional and formative reads
+
 | Title | Author | Date Finished |
 | --- | --- | --- |
 | Endgame | Beckett, Samuel | 2011-01-02 |
@@ -20,8 +23,8 @@
 | Thirty-Nine Steps, The | Buchan, John | 2011-05-10 |
 | Michelangelo and the Sistine Chapel | Dixon, Graham | 2011-05-11 |
 | Painted Veil, The | Somerset Maugham, W. | 2011-05-19 |
-| Blood Meridian | McCarthy, Cormac | 2011-05-29 |
-| Moby Dick | Melville, Herman | 2011-07-11 |
+| ⭐️ Blood Meridian | McCarthy, Cormac | 2011-05-29 |
+| ⭐️ Moby Dick | Melville, Herman | 2011-07-11 |
 | Breakfast of Champions | Vonnegut, Kurt | 2011-07-15 |
 | Clockwork Orange, A | Burgess, Anthony | 2011-07-19 |
 | Room with a View, A | Forster, E. M. | 2011-08-02 |
@@ -32,5 +35,5 @@
 | Kingdom of this World, The | Carpentier, Alejo | 2011-09-27 |
 | Dante's Epic Journeys  | Thompson, David | 2011-10-02 |
 | Weep Not, Child | Wa Thiong'o, Ngugi | 2011-11-13 |
-| Divine Comedy, The | Dante | 2011-12-15 |
+| ⭐️ Divine Comedy, The | Dante | 2011-12-15 |
 | Tinker Tailor Soldier Spy | Le Carre, John | 2011-12-30 |
