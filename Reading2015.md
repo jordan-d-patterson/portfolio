@@ -1,14 +1,17 @@
 #2015
+
+⭐️s mark exceptional and formative reads
+
 | Title | Author | Date Finished |
 | --- | --- | --- |
 | Horse and his Boy, The | Lewis, C. S. | 2015-01-06 |
-| Confessions | Augustine of Hippo, St. | 2015-01-26 |
+| ⭐️ Confessions | Augustine of Hippo, St. | 2015-01-26 |
 | The Angel of the Left Bank: The Secrets of Delacroix's Parisian Masterpiece | Kauffmann, Jean-Paul | 2015-01-27 |
 | Everyman | Roth, Philip | 2015-01-29 |
 | A Feast for Crows | Martin, George R. R. | 2015-02-09 |
 | Jesus for President | Claiborne, Shane | 2015-02-10 |
 | Princess and the Goblin, The | MacDonald, George | 2015-02-22 |
-| Inferno | Dante | 2015-03-10 |
+| ⭐️ Inferno | Dante | 2015-03-10 |
 | Remains of the Day, The | Ishiguro, Kazuo | 2015-03-20 |
 | Pale View of Hills, A | Ishiguro, Kazuo | 2015-03-23 |
 | Dance with Dragons, A | Martin, George R. R. | 2015-05-04 |
@@ -19,7 +22,7 @@
 | Love Does | Goff, Bob | 2015-05-21 |
 | Prince Caspian | Lewis, C. S. | 2015-05-23 |
 | Historical Figure of Jesus, The | Sanders, E. P.  | 2015-05-25 |
-| Brideshead Revisited | Waugh, Evelyn | 2015-05-29 |
+| ⭐️ Brideshead Revisited | Waugh, Evelyn | 2015-05-29 |
 | Jurassic Park | Crichton, Michael | 2015-06-10 |
 | Alias Grace | Atwood, Margaret | 2015-06-28 |
 | Vile Bodies | Waugh, Evelyn | 2015-07-15 |
