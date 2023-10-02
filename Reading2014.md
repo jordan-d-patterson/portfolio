@@ -1,4 +1,7 @@
 #2014
+
+⭐️s mark exceptional and formative reads
+
 | Title | Author | Date Finished |
 | --- | --- | --- |
 | Heart of a Dog, The | Bulgakov, Mikhail | 2014-01-10 |
@@ -16,10 +19,10 @@
 | Crazy Town | Doolittle, Robyn | 2014-06-01 |
 | White Narcissus | Knister, Raymond | 2014-06-09 |
 | Generation X | Coupland, Douglas | 2014-06-18 |
-| Sunshine Sketches of a Little Town | Leacock, Stephen | 2014-06-24 |
+| ⭐️ Sunshine Sketches of a Little Town | Leacock, Stephen | 2014-06-24 |
 | Sentimentalists, The | Skibsrud, Johanna | 2014-06-27 |
 | Living: A London Journal | McDonald, Roy | 2014-07-04 |
-| Lives of Girls and Women | Munro, Alice | 2014-07-14 |
+| ⭐️ Lives of Girls and Women | Munro, Alice | 2014-07-14 |
 | Swamp Angel | Wilson, Ethel | 2014-07-15 |
 | Collected Works of Billy the Kid, The | Ondaatje, Michael | 2014-07-18 |
 | Handmaid's Tale, The | Atwood, Margaret | 2014-08-02 |
@@ -36,18 +39,18 @@
 | Jaws | Benchley, Peter | 2014-10-21 |
 | Zombie Survival Guide, The | Brooks, Max | 2014-11-10 |
 | Giver, The | Lowry, Lois | 2014-11-15 |
-| Count Magnus and Other Ghost Stories | James, M. R. | 2014-11-16 |
+| ⭐️ Count Magnus and Other Ghost Stories | James, M. R. | 2014-11-16 |
 | Old Man and the Sea, The | Hemingway, Ernest | 2014-11-23 |
-| Screwtape Letters, The | Lewis, C. S. | 2014-11-23 |
-| Great Divorce, The | Lewis, C. S. | 2014-12-02 |
+| ⭐️ Screwtape Letters, The | Lewis, C. S. | 2014-11-23 |
+| ⭐️ Great Divorce, The | Lewis, C. S. | 2014-12-02 |
 | The Adventures of Reddy Fox | Burgess, Thornton | 2014-12-04 |
 | Journalism | Sacco, Joe | 2014-12-16 |
-| Orthodoxy | Chesterton, G. K. | 2014-12-20 |
+| ⭐️ Orthodoxy | Chesterton, G. K. | 2014-12-20 |
 | Lion, the Witch, and the Wardrobe | Lewis, C. S. | 2014-12-22 |
 | Magicians Nephew, The | Lewis, C. S. | 2014-12-22 |
 | Persepolis: The Story of a Childhood | Satrapi, Marjane | 2014-12-22 |
 | Death and the Maiden | Dorfman, Ariel | 2014-12-23 |
 | Glass Menagerie, The | Williams, Tennessee | 2014-12-27 |
-| Art of Living, The (Epictetus) | Epictetus | 2014-12-29 |
+| ⭐️ Art of Living, The (Epictetus) | Epictetus | 2014-12-29 |
 | Luther  | Osborne, John | 2014-12-29 |
 | North | Heaney, Seamus | 2014-12-31 |
