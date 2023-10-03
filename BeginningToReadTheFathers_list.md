@@ -1,11 +1,12 @@
-#Beginning to Read the Church Fathers: A Reading List
-In 2021, I completed my first ever cover-to-cover read-through of the Bible. It was an enlightening journey that 
-realizing that, obviously, Christian writing did not end in the 1st century with the New Testament, but continued 
-Enter the Church Fathers.
+#Beginning to Read the Fathers of the Church: A Reading List
 
-Benedict Ramsay's work _Beginning to Read the Fathers_. 
+ > "The Fathers have always been prominent in the life of the Church, and they have constantly been invoked for every sort of thing. But they have suffered from their prominence; they are famous but not well-known. Like so many famous people they are cited and alluded to, but few go to the effort of exploring their thought. The purpose of this short collection of essays is to serve both as an introduction to the writers of the ancient
+Church and as a stimulus to the reader to continue in them on his own, to become more familiar with them. There are deep joys to be gotten from reading, for example, Origen, Athanasius, Gregory of Nyssa and Augustine, who are writers very frequently mentioned in these pages. And they are not esoteric joys: they are universal, accessible to all of us. They are the joys of reading lofty hearts expressing themselves on lofty themes,
+and of reading very human hearts expressing themselves in human ways. Many of the things that a professor of English literature might say in introducing his students to Shakespeare or Milton a patrologist could say in introducing his students to Jerome or John Chrysostom." -- Beginning to Read the Fathers, first edition, page 3.  
 
-| Chronology | Ramsay's Date / [supplied] | Author | Work | Edition | Read
+In 2021, I completed my first ever cover-to-cover read-through of the Bible. It was an enlightening journey that answered questions and questioned answers, and I was left with a greater sense of the Bible's constituent parts and how they are all related in a single whole. It also spurred the realization that--obviously, if I had ever given thought to it--Christian writing did not end in the 1st century with the New Testament, but continued on right where the latest canonical writings left off. So I decided to continue as well. As an introduction to the post-Biblical corpus of texts, I was recommended Boniface Ramsey's work _Beginning to Read the Fathers_. At the end of the work, Ramsey provides a suggested reading list for anyone looking to acquaint themselves with the Fathers of the Church. I typed the list up and started reading.  
+
+| Chronology | Date* | Author | Work | ListEdition | Read
 | 1 | c.50-200 | Anonymous | The Didache | First/Revised | Jun-22 |
 | 2 | c.96 | Clement | First Epistle of Clement | First/Revised | Jun-22 |
 | 3 | c.110 | Ignatius | Epistles | First/Revised | Jun-22 |
@@ -24,10 +25,7 @@ Benedict Ramsay's work _Beginning to Read the Fathers_.
 | 16 | [c.235] | Origen | Exhortation to Martyrdom | First/Revised | null |
 | 17 | [c.245-248] | Origen | Against Celsus | First/Revised | null |
 | 18 | [c.238-244] | Origen | Commentary and Homilies on the Song of Songs | First/Revised | null |
-| 19.1 | [c.250-258] | Cyprian | Epistles v.1, Letters 1-27 | First/Revised | null |
-| 19.2 | [c.250-258] | Cyprian | Epistles v.2, Letters 28-54 | First/Revised | null |
-| 19.3 | [c.250-258] | Cyprian | Epistles v.3, Letters 55-66 | First/Revised | null |
-| 19.4 | [c.250-258] | Cyprian | Epistles v.4, Letters 67-82 | First/Revised | null |
+| 19 | [c.250-258] | Cyprian | Epistles | First/Revised | null |
 | 20 | 251 | Cyprian | On the Unity of the Catholic Church | First/Revised | null |
 | 21 | [c.303-325] | Eusebius of Caesarea | Ecclesiastical History | First/Revised | null |
 | 22 | Early 4th C | Athanasius | On the Incarnation of the Word of God | First/Revised | null |
@@ -54,3 +52,5 @@ Benedict Ramsay's work _Beginning to Read the Fathers_.
 | 43 | Late 6th century | Gregory the Great | Pastoral Care | First/Revised | null |
 | 44 | Before c.630 | Maximus the Confessor | Four Centuries on Charity | First/Revised | null |
 | 45 | c.730 | John Damascene | On the Orthodox Faith | First/Revised | null |
+
+*Unbracketed dates are derived from Ramsey's book, bracketed dates have been supplied from other sources. All are approximate.
