@@ -1,4 +1,4 @@
-#Beginning to Read the Fathers of the Church: A Reading List
+# Beginning to Read the Fathers of the Church: A Reading List
 
  > "The Fathers have always been prominent in the life of the Church, and they have constantly been invoked for every sort of thing. But they have suffered from their prominence; they are famous but not well-known. Like so many famous people they are cited and alluded to, but few go to the effort of exploring their thought. The purpose of this short collection of essays is to serve both as an introduction to the writers of the ancient
 Church and as a stimulus to the reader to continue in them on his own, to become more familiar with them. There are deep joys to be gotten from reading, for example, Origen, Athanasius, Gregory of Nyssa and Augustine, who are writers very frequently mentioned in these pages. And they are not esoteric joys: they are universal, accessible to all of us. They are the joys of reading lofty hearts expressing themselves on lofty themes,
@@ -6,7 +6,7 @@ and of reading very human hearts expressing themselves in human ways. Many of th
 
 In 2021, I completed my first ever cover-to-cover read-through of the Bible. It was an enlightening journey that answered questions and questioned answers, and I was left with a greater sense of the Bible's constituent parts and how they are all related in a single whole. It also spurred the realization that--obviously, if I had ever given thought to it--Christian writing did not end in the 1st century with the New Testament, but continued on right where the latest canonical writings left off. So I decided to continue as well. As an introduction to the post-Biblical corpus of texts, I was recommended Boniface Ramsey's work _Beginning to Read the Fathers_. At the end of the work, Ramsey provides a suggested reading list for anyone looking to acquaint themselves with the Fathers of the Church. I typed the list up and started reading.  
 
-| Chronology | Date* | Author | Work | ListEdition | Read
+| Chronology | Date* | Author | Work | ListEdition | Read |
 | 1 | c.50-200 | Anonymous | The Didache | First/Revised | Jun-22 |
 | 2 | c.96 | Clement | First Epistle of Clement | First/Revised | Jun-22 |
 | 3 | c.110 | Ignatius | Epistles | First/Revised | Jun-22 |
