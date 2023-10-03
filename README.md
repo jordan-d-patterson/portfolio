@@ -109,3 +109,9 @@ Since I was an wide-eyed English major in second year in 2010, I've tried to kee
 [2020](Reading2020.md)  
 [2021](Reading2021.md)  
 2022
+
+In the summer of 2018, when I lived on the edge of the country in St. John's, Newfoundland, I started a project to read across Canada, coast to coast. Starting in British Columbia, I made it to Ontario, where I have been stuck for a long, long time. See my CanLit journey here. (forthcoming)
+
+In 2021, I read through the Bible cover to cover using [this 52 week reading plan.](http://www.bible-reading.com/bible-plan.html)  
+
+In 2022, I started a project to read through a selection of important writings from the Fathers of the Church: [Beginning to Read the Fathers of the Church: A Reading List](BeginningToReadTheFathers_list.md)
