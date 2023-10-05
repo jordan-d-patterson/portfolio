@@ -40,3 +40,4 @@ Ontario - Joseph Boyden's Wenjack
 Ontario - Helen Weinzweig's Basic Black with Pearls
 Ontario - Morley Callaghan's Such Is My Beloved
 Ontario - Seth's Clyde Fans
+Alberta - Kate Beaton's Ducks
