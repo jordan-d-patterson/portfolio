@@ -108,7 +108,7 @@ Since I was an wide-eyed English major in second year in 2010, I've tried to kee
 [2019](Reading2019.md)  
 [2020](Reading2020.md)  
 [2021](Reading2021.md)  
-2022
+[2022](Reading2022.md)
 
 In the summer of 2018, when I lived on the edge of the country in St. John's, Newfoundland, I started a project to read across Canada, coast to coast. Starting in British Columbia, I made it to Ontario, where I have been stuck for a long, long time. See my CanLit journey here. (forthcoming)
 
