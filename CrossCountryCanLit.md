@@ -19,25 +19,25 @@ From the outset, I planned to skip one province and one territory, feeling mysel
 
 My actual, hilariously undisciplined path looked like this
 
-BC - Watson's The Double Hook
-Northwest Territories - Kroetsch's But We Are Exiles
-Rocky Mountains - Tay John
-Ontario - Jeff Lemire's Essex County
-Ontario - Seth's It's a Good Life If You Don't Weaken
-Alberta - Kroetsch's The Studhorse Man
-BC - Emily Carr's Klee Wyck
-Quebec - Brian Moore's Black Robe
-Alberta - King's Green Grass, Running Water
-Quebec - Roch Carrier's The Hockey Sweater and Other Stories
-Saskatchewan - Guy Vanderhaeghe's The Englishman's Boy
-Saskatchewan - Mitchell's Who Has Seen the Wind?
-Saskatchewan - Ross's As For Me and My House
-Manitoba - Martha Ostenso's Wild Geese
-Ontario - Munro's Who Do You Think You Are? aka The Beggar Maid
-Ontario - Catharine Parr Traill's The Backwoods of Canada
-Quebec - Mordecai Richler's The Apprenticeship of Duddy Kravitz
-Ontario - Joseph Boyden's Wenjack
-Ontario - Helen Weinzweig's Basic Black with Pearls
-Ontario - Morley Callaghan's Such Is My Beloved
-Ontario - Seth's Clyde Fans
-Alberta - Kate Beaton's Ducks
+BC - Watson's The Double Hook  
+Northwest Territories - Kroetsch's But We Are Exiles  
+Rocky Mountains - Tay John  
+Ontario - Jeff Lemire's Essex County  
+Ontario - Seth's It's a Good Life If You Don't Weaken  
+Alberta - Kroetsch's The Studhorse Man  
+BC - Emily Carr's Klee Wyck  
+Quebec - Brian Moore's Black Robe  
+Alberta - King's Green Grass, Running Water  
+Quebec - Roch Carrier's The Hockey Sweater and Other Stories  
+Saskatchewan - Guy Vanderhaeghe's The Englishman's Boy  
+Saskatchewan - Mitchell's Who Has Seen the Wind?  
+Saskatchewan - Ross's As For Me and My House  
+Manitoba - Martha Ostenso's Wild Geese  
+Ontario - Munro's Who Do You Think You Are? aka The Beggar Maid  
+Ontario - Catharine Parr Traill's The Backwoods of Canada  
+Quebec - Mordecai Richler's The Apprenticeship of Duddy Kravitz  
+Ontario - Joseph Boyden's Wenjack  
+Ontario - Helen Weinzweig's Basic Black with Pearls  
+Ontario - Morley Callaghan's Such Is My Beloved  
+Ontario - Seth's Clyde Fans  
+Alberta - Kate Beaton's Ducks  
