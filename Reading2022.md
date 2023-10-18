@@ -29,7 +29,7 @@
 | Hilda and the Midnight Giant | Pearson, Luke | 2022-10-16 | 
 | Hilda and the Troll | Pearson, Luke | 2022-10-14 | 
 | The Hypo: The Melancholic Young Lincoln | Sciver, Noah Van | 2022-10-08 | 
-| Platero and I | JimÃ©nez, Juan RamÃ³n | 2022-10-08 | 
+| Platero and I | Jimenez, Juan Ramon | 2022-10-08 | 
 | Johnny Appleseed | Buhle, Paul M. | 2022-10-02 | 
 | Race Matters | West, Cornel | 2022-09-28 | 
 | Angels and Demons: What Do We Really Know About Them? | Kreeft, Peter | 2022-09-26 | 
