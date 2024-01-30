@@ -12,13 +12,13 @@ _Stein, Edith. "Principles of Women’s Education." Collected Works, volume 2: E
 
 ## Work Experience
 **Associate Librarian, St. Peter's Seminary (_March 2021 - Present_)**
-- Flying solo in my small library, I do everything there is to do, from fulfilment and reference to cataloguing and acquisitions, and everything in between.  
+- Flying solo in my small library, I do library work of all kinds, from fulfilment and reference to cataloguing and acquisitions, and everything in between.  
 
 **Cataloguing and Metadata Librarian, Memorial University of Newfoundland (_March 2018 - March 2021_)**
-- As a part of the C&M team in a large research library, I provided a range of services. Areas in which I particularly enjoyed working include subject analysis and classification, web archiving, institutional repositories, linked data, and research data management.  
+- As a part of the C&M team in a large research library, I provided a range of descriptive metadata services. Areas in which I particularly enjoyed working include subject analysis and classification, web archiving, institutional repositories, linked data, and research data management.
 
 **Cataloguing Assistant (Law), Osgoode Hall Law Library, York University (_September 2014 - February 2018_)**
-- I was the library's cataloguer, responsible for the description of all its bibliographic materials. In this position I also designed a project to assign new call numbers to our rare materials in support of a  reorganization project in the library's special collections.
+- After a year as a student assistant, I became the library's primary cataloguer, responsible for the description of its bibliographic materials. In this position I also designed a project in support of a reorganization project in the library's special collections.
 
 **Rare Books Student Assistant, Osgoode Hall Law Library, York University (_September 2013 - September 2014_)**
 - While still a Master's student, I worked for a year providing enhanced cataloguing the library's rare books.
@@ -112,6 +112,6 @@ Since I was an wide-eyed English major in second year in 2010, I've tried to kee
 
 In the summer of 2018, when I lived on the edge of the country in St. John's, Newfoundland, I started a project to read across Canada, coast to coast. Starting in British Columbia, I made it to Ontario, where I have been stuck for a long, long time. See my CanLit journey [here.](CrossCountryCanLit.md)
 
-In 2021, I read through the Bible cover to cover using [this 52 week reading plan.](http://www.bible-reading.com/bible-plan.html)  
+In 2021, I read through the Bible cover to cover using [this 52 week reading plan.](http://www.bible-reading.com/bible-plan.html). During this reading project, I found the Bible Project's book by book summary videos on the [Old Testament](https://www.youtube.com/watch?v=ALsluAKBZ-c&list=PLH0Szn1yYNeeVFodkI9J_WEATHQCwRZ0u&pp=iAQB) and the [New Testament](https://www.youtube.com/watch?v=Q0BrP8bqj0c&list=PLH0Szn1yYNecanpQqdixWAm3zHdhY2kPR&pp=iAQB) to be indispensable supports. 
 
-In 2022, I started a project to read through a selection of important writings from the Fathers of the Church: [Beginning to Read the Fathers of the Church: A Reading List](BeginningToReadTheFathers_list.md)
+In 2022, I started a project to read through a selection of important writings from the Fathers of the Church, as selected by Boniface Ramsey in his book *Beginning to Read the Fathers*: [Beginning to Read the Fathers: A Reading List.](BeginningToReadTheFathers_list.md)
