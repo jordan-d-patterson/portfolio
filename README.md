@@ -1,4 +1,7 @@
-# Curriculum Vitae 
+# Curriculum Vitae
+
+![Giotto - Scenes from the Life of Christ - Lamentation (detail) ](img/Giotto_Lamentation_(detail).jpg)
+
 > "And when night comes, and you look back over today and see how fragmentary everything has been, and how much you planned that has gone undone, and all the reasons you have to be embarassed and ashamed: just take everything exactly as it is, put it in God's hands and leave it with Him." - Edith Stein, Saint Teresa Benedicta of the Cross
 
 _Stein, Edith. "Principles of Women’s Education." Collected Works, volume 2: Essays on Women. Washington, D.C.: ICS Publications, 1987. Pp. 130-133._
