@@ -82,7 +82,11 @@ While at Osgoode, I contributed 18 posts about the library's special collections
 As an undergrad, I had a paper selected by a jury of professors to be included in the faculty's undergraduate journal:
 - Patterson, Jordan. “'What Does This Mean?' : A Fourfold Interpretation of the Double Rainbow Simile in Paradiso XII". The Semi-Colon: Arts and Humanities Student Council Literary Journal, vol. 5, Spring 2011)
 
+The next year, I wrote my undergraduate thesis on Dante:
+- Patterson, Jordan. "The Problematics of Typology in Dante’s Divine Comedy"
+
 ## Presentations
+- Lights Too Bright: Vintage Contemporaries, Jay McInerney, and the Curse of New York City (June 2024, Bibliographical Society of Canada / La Société bibliographique du Canada Conference)
 - Wikidata: What It Is, Why It Matters (May 2019, NLLA Conference)
 - Atomic Information: Linked Data, RDA, and the Ongoing History of Abstraction (November 2018, webinar presentation, The Future of Cataloging: RDA, Linked Data and More)
 - BIBFRAME in 5 (December 2017, Memorial University Libraries)
