@@ -47,7 +47,7 @@ Wikidata
 
 ## Publications
 ### Evidence Summaries
-Between 2019 and 2023, I wrote 8 evidence summaries for the journal Evidence Based Library and Information Practice:
+Between 2019 and 2023, I wrote 8 evidence summaries for the journal Evidence Based Library and Information Practice. I have since continued on as a peer reviewer for the journal.
 - Patterson, Jordan. “Insufficient Understanding of User Benefits Impedes Open Data Initiatives at Museums”. Evidence Based Library and Information Practice, vol. 18, no. 3, Sept. 2023, pp. 69-71, [doi:10.18438/eblip30372.](https://doi.org/10.18438/eblip30372)
 - Patterson, Jordan. “An Online Community of Data Enthusiasts Collaborates to Seek, Share, and Make Sense of Data”. Evidence Based Library and Information Practice, vol. 18, no. 1, Mar. 2023, pp. 121-3, [doi:10.18438/eblip30280.](https://doi.org/10.18438/eblip30280)
 - Patterson, Jordan. “Print Book Circulation Longevity Dropping at a Small Canadian University Library”. Evidence Based Library and Information Practice, vol. 17, no. 3, Sept. 2022, pp. 144-6, [doi:10.18438/eblip30181.](https://doi.org/10.18438/eblip30181)
