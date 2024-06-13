@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-![Giotto - Scenes from the Life of Christ - Lamentation (detail) ](img/Giotto_Lamentation_(detail).jpg)
+<img src="{{ '/img/Giotto_Lamentation_(detail).jpg' | relative_url }}" alt="Giotto - Scenes from the Life of Christ - Lamentation (detail)" style="width: 50%;">
 
 > "And when night comes, and you look back over today and see how fragmentary everything has been, and how much you planned that has gone undone, and all the reasons you have to be embarassed and ashamed: just take everything exactly as it is, put it in God's hands and leave it with Him." - Edith Stein, Saint Teresa Benedicta of the Cross
 
