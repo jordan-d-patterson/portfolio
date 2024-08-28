@@ -20,7 +20,7 @@ In 2021, I completed my first ever cover-to-cover read-through of the Bible. It 
 | 11 | [Early 3rd century) | Tertullian | On Baptism | First/Revised | Jan-23 |
 | 12 | c.215 | Hippolytus | The Apostolic Tradition | First/Revised | Feb-23 |
 | 13 | Early 3rd century | Anonymous | Didascalia Apostolorum | First | Apr-23 |
-| 14 | [c.220-230] | Origen | On First Principles | First/Revised | null |
+| 14 | [c.220-230] | Origen | On First Principles | First/Revised | June-24 |
 | 15 | [c.233-234] | Origen | On Prayer | First/Revised | null |
 | 16 | [c.235] | Origen | Exhortation to Martyrdom | First/Revised | null |
 | 17 | [c.245-248] | Origen | Against Celsus | First/Revised | null |
@@ -28,7 +28,7 @@ In 2021, I completed my first ever cover-to-cover read-through of the Bible. It 
 | 19 | [c.250-258] | Cyprian | Epistles | First/Revised | null |
 | 20 | 251 | Cyprian | On the Unity of the Catholic Church | First/Revised | null |
 | 21 | [c.303-325] | Eusebius of Caesarea | Ecclesiastical History | First/Revised | null |
-| 22 | Early 4th C | Athanasius | On the Incarnation of the Word of God | First/Revised | null |
+| 22 | Early 4th C | Athanasius | On the Incarnation of the Word of God | First/Revised | Sep-24 |
 | 23 | [c.357-358] | Athanasius | The Life of Saint Anthony | First/Revised | null |
 | 24 | Late 4th C | Cyril of Jerusalem | Catechetical Lectures | First/Revised | null |
 | 25 | [4th century, not later than 373] | Ephrem the Syrian | Hymns | Revised | null |
